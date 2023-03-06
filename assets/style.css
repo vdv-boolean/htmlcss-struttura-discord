@@ -9,14 +9,19 @@
 header {
     background-color: #add8e6;
 }
-
-.first-sect, .third-sect {
-    background-color: white;
+.first-sect {
+    background-color: #00008b;
 }
 
 .second-sect, .fourth-sect {
-    background-color: #d3d3d3;
+    background-color: white;
 }
+
+.third-sect, .fifth-sect {
+    background-color: #d3d3d3;;
+}
+
+
 
 .sixth-sect, footer {
     background-color: #23272a;
