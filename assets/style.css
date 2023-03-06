@@ -4,3 +4,20 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* Background Colors */
+header {
+    background-color: #add8e6;
+}
+
+.first-sect, .third-sect {
+    background-color: white;
+}
+
+.second-sect, .fourth-sect {
+    background-color: #d3d3d3;
+}
+
+.sixth-sect, footer {
+    background-color: #23272a;
+}
