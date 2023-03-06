@@ -13,16 +13,37 @@ header {
     background-color: #00008b;
 }
 
-.second-sect, .fourth-sect {
+.second-sect,
+.fourth-sect {
     background-color: white;
 }
 
-.third-sect, .fifth-sect {
+.third-sect,
+.fifth-sect {
     background-color: #d3d3d3;;
 }
 
-
-
-.sixth-sect, footer {
+.sixth-sect,
+footer {
     background-color: #23272a;
+}
+
+/* Background Heights*/
+header,
+footer {
+    height: 80px;
+}
+
+.first-sect {
+    height: 500px;
+}
+.second-sect,
+.third-sect, 
+.fourth-sect,
+.sixth-sect {
+    height: 600px;
+}
+
+.fifth-sect {
+    height: 1000px;
 }
